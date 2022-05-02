@@ -1,6 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/97428216/160321165-bd337416-a703-4f53-a1f7-5d8844ab66a2.png" align=left width=150> 꿈깨
 > 온라인 3D 방탈출 게임 서비스 😴
-
+<br>
+<img src='https://user-images.githubusercontent.com/74045440/163561005-9320751e-e899-4eb8-bf2c-e03897b7f05d.png' width=450/>
 <br />
 
 ## 💭 About
@@ -24,11 +25,11 @@
 <br />
 
 ## 📌 바로가기
-- [Service](https://zzz-escape.netlify.app)
+- [서비스 바로가기](https://zzz-escape.netlify.app)
 - [GitHub 메인페이지](https://github.com/HangHae99Zzz)
 - [프론트엔드 GitHub](https://github.com/HangHae99Zzz/dream_escape-fe)
 - [백엔드 GitHub(NodeJS)](https://github.com/HangHae99Zzz/RoomEscape_BE-nodeJS)
-- [시연영상](https://youtu.be/4LltjiHHG38)
+- [시연영상](https://www.youtube.com/watch?v=LGZhzCsGBWs)
 
 <br>
 📂 백엔드의 고민과 공부 기록은 → https://github.com/HangHae99Zzz/RoomEscape_BE/wiki
